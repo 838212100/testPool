@@ -4,6 +4,7 @@ public class Client {
 	
 	
 	public static void main(String[] args) {
+		
 //		IGamePlayer player = new GamePlayer();
 		
 //		player.login("zhangsan", "password");
